@@ -1,5 +1,5 @@
 ## Hey 👋, I'm Mohamed Fouad Murad!
-<a href='https://www.linkedin.com/in/mohamad-fouad-murad-7202ab318'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
+<a href='https://www.linkedin.com/in/mohamad-fouad-murad-7202ab318?utm_source=share_via&utm_content=profile&utm_medium=member_android'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
 
 <br>
 
@@ -37,9 +37,7 @@ I enjoy learning new technologies 💻 every day and building useful projects �
 <br>
 
 ### 🛠 My Projects
-- [Student Management System]()
-- [Personal Portfolio]()
-- [AI Learning Project]()
+Coming soon...
 
 <br>
 
